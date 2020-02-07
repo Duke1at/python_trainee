@@ -1,1 +1,1 @@
-# python_trainee
+# Repository for training
